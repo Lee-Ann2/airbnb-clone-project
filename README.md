@@ -9,7 +9,7 @@ Tech stack:
 Rest Api etc.
 
 
-#                           UI/UX Planning
+#                           UI/UX Design Planning
 
 The modern layout is used in the main interface. With numarous properties rendered with crusial information about the estate, each labeled with a title, price and a highly impressive description. 
 With the: 
