@@ -1,9 +1,10 @@
 # airbnb-clone-project 
-#                               GOAL
+##                               GOAL
 
-Goal: The goal for the entire project is to equip and familiarize the use of simple booking and management. What will be beared by the results upon finishing the project, will be a simple yet so lovely UX/UI. That will make it possible for the users to manouver through the components without struggle. 
+# Goal:
+ The goal for the entire project is to equip and familiarize the use of simple booking and management. What will be beared by the results upon finishing the project, will be a simple yet so lovely UX/UI. That will make it possible for the users to manouver through the components without struggle. 
 
-Tech stack:
+# Tech stack:
 - Frontend Developer: Will handle the React, Next.js and TypeScript for    rendering.
 - Backend Developer: Will be dealing with Python, MySQL and Django.
 Rest Api etc.
@@ -25,6 +26,24 @@ With the:
     - And the finalizing and conformation of the booking. 
 
 The user will be able to navigate through the app with ease. It is user friendly and visualy appealing.
+
+| Page                 | Descriprion                        | End Goals   |
+|----------------------|------------------------------------|-------------|
+|Property Listing View | This is the page that displays the |Users can    |
+|                      | lists, images, price and of the    |navigate and |
+|                      | property.                          |easily find  |
+|                      |                                    |             |
+|                      |                                    |             |
+|Listing Detailed View | Name, numerous images, amenities   |Display of   |
+|                      | and location of the selected       |the info    | 
+|                      | property.                          |down to the  |
+|                      |                                    |minute detail|
+|                      |                                    |             |
+|Simple Checkout View  | User will be able to simply        |Smooth and   |
+|                      | personalize their bookings like get|fast booking |
+|                      | more details, select dates and     |experience   |
+|                      | input the guest list.              |             |
+
 
 #                      Color Styles
 
@@ -137,14 +156,14 @@ The user will be able to navigate through the app with ease. It is user friendly
 
 #                        UI Component Patterns
 
-Navbar:
+# Navbar:
 
 It consist of the app UI, it is usually at the top. Same row as the logo. As some screen can not display all the parts of the UI. In smaller or mobile screens then all the other components are reduced to a navigation menu and be displayed in a column.
 
-Property card:
+# Property card:
 
 It is a cards the diaplays the image, name, price, location and ratings of the property. It helps the user to easily identify and choose precisely.
 
-Footer:
+# Footer:
 
 Has all the informtion about the product such as the contact, emails, stats, more catergories of the product, about the company and the copyright. This makes it a lot easier for the user to contact the team or explore other things that are offered. 
