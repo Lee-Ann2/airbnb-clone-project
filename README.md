@@ -125,7 +125,7 @@ The user will be able to navigate through the app with ease. It is user friendly
   - Ensure security and compliance in the production environment.
   
 7. Product Owner:
--  Is responsible for defining the vision of the product and ensuring it meets user needs.
+- Is responsible for defining the vision of the product and ensuring it meets user needs.
   - Create and manage the product backlog.
   - Make decisions on scope and accept completed work.
 
@@ -133,3 +133,18 @@ The user will be able to navigate through the app with ease. It is user friendly
 - Helps the team follow Scrum practices.
   - Organize and facilitate Scrum ceremonies.
   - Ensure continuous improvement within the team.
+  
+
+#                        UI Component Patterns
+
+Navbar:
+
+It consist of the app UI, it is usually at the top. Same row as the logo. As some screen can not display all the parts of the UI. In smaller or mobile screens then all the other components are reduced to a navigation menu and be displayed in a column.
+
+Property card:
+
+It is a cards the diaplays the image, name, price, location and ratings of the property. It helps the user to easily identify and choose precisely.
+
+Footer:
+
+Has all the informtion about the product such as the contact, emails, stats, more catergories of the product, about the company and the copyright. This makes it a lot easier for the user to contact the team or explore other things that are offered. 
