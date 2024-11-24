@@ -25,3 +25,70 @@ With the:
     - And the finalizing and conformation of the booking. 
 
 The user will be able to navigate through the app with ease. It is user friendly and visualy appealing.
+
+#                      Color Styles
+
+1. background: #222222; Used for the dark mode. (Secondary color).
+2. background: #34967C; Background color to highligh and make buttons and other crucial parts(Primary color).
+3. #F0FFFB(Primary color).
+4. background: #FFA800; For ertain icons to signify importance(Secondary color).
+5. #616161(Logos/Icons)
+
+#                      Typoghraphy
+1. Hero Text
+    font-family: Source Sans Pro;
+    font-size: 94px;
+    font-weight: 600;
+    line-height: 99px;
+
+2. Reserve buttons
+
+- Reserve button 1:
+    font-family: Quicksand;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 31.25px;
+
+
+3. Confirm and Pay
+
+- Confirm and pay button 1:
+    font-family: Quicksand;
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 13.75px;
+
+2. Show amenities buttons:
+
+- Show amenities button 1:
+    font-family: Quicksand;
+    font-size: 14.09px;
+    font-weight: 500;
+    line-height: 28.64px;
+
+1. Sort buttons
+ 
+- Sort button 1:
+    font-family: Quicksand;
+    font-size: 9px;
+    font-weight: 600;
+    line-height: 11.25px;
+
+
+4. Filter
+
+- Filter button 1:
+    font-family: Quicksand;
+    font-size: 9px;
+    font-weight: 600;
+    line-height: 11.25px;
+
+
+5. Instant button
+
+- Instant button 1:
+    font-family: Quicksand;
+    font-size: 9px;
+    font-weight: 600;
+    line-height: 11.25px;
+
