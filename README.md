@@ -92,3 +92,44 @@ The user will be able to navigate through the app with ease. It is user friendly
     font-weight: 600;
     line-height: 11.25px;
 
+#                  Project Roles and Responsibilities
+
+1. Project Manager:
+- Is the leader of the projects. They make sure the work is done accordingly during the specific time period.
+  - The y manage the time and resources.
+  - They are the link of communication between the stakeholders and other developers.
+  
+2. Front End Developer:
+- They are responsible for the client side of the application. Providing smooth and interactive interfaces.
+   - They work with HTML, CSS and JavaScript to create apps or websites.
+   - They ensure the product caters to all screen sizes.
+  
+3. Back End Developer: 
+- Responsible for the server side of the application and manage huge data.
+   - Create API's for the front end developers.
+   - Ensures the data is well secured and protected.
+  
+4. Designers:
+- They are there for the aesthetics and ensure application is visually appealing.
+   - They design the layout alongside the Front end developers.
+   - Working on the wireframes and prototypes.
+  
+5. QA/Tester:
+- Basically they are there to make sure the application runs as it is intended.
+   - Verify bugs and perform testing.
+   - Ensure the applicaton meets the quality anda clients requirements.
+  
+6. DevOps Engineer:
+- They focus on the deployment and operational aspects of the software, ensuring smooth and efficient delivery.
+  - Monitor application performance and uptime.
+  - Ensure security and compliance in the production environment.
+  
+7. Product Owner:
+-  Is responsible for defining the vision of the product and ensuring it meets user needs.
+  - Create and manage the product backlog.
+  - Make decisions on scope and accept completed work.
+
+8. Scrum Master: 
+- Helps the team follow Scrum practices.
+  - Organize and facilitate Scrum ceremonies.
+  - Ensure continuous improvement within the team.
