@@ -32,7 +32,6 @@ The user will be able to navigate through the app with ease. It is user friendly
 |Property Listing View | This is the page that displays the |Users can    |
 |                      | lists, images, price and of the    |navigate and |
 |                      | property.                          |easily find  |
-|                      |                                    |             |
 |Listing Detailed View | Name, numerous images, amenities   |Display of   |
 |                      | and location of the selected       |the info    | 
 |                      | property.                          |down to the  |
